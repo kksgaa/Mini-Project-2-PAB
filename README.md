@@ -36,17 +36,17 @@ Aplikasi mobile berbasis Flutter untuk mengelola bisnis penyewaan mobil mainan. 
 
 **Tampilan Dashboard Ketika Darkmode**
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/87de86f6-afaf-4228-a94e-027e395e8d93" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/fb886a26-d866-43d9-92a7-5eeca0678ad5" />
 
 ---
 **Tampilan Halaman Mobil Ketika Darkmode**
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/e2cba43a-751a-447e-bccb-a43bbd36ad57" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/5c6f4e74-588a-4cae-a476-8fd612c95839" />
 
 ---
 **Tampilan Halaman Penyewaan Ketika Darkmode**
 
-<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/8dd4a7c7-4976-4546-a62e-7458af8e9747" />
+<img width="450" height="450" alt="image" src="https://github.com/user-attachments/assets/63a6b1af-ba20-4828-a3d6-3ed0e0704d33" />
 
 ---
 
@@ -192,8 +192,8 @@ cd Mini-Project-2-PAB
 **2. Siapkan file environment (.env)**
 Buat file bernama `.env` di dalam folder utama proyek (selevel dengan `pubspec.yaml`), lalu masukkan konfigurasi Supabase berikut:
 ```
-SUPABASE_URL=masukkan_url_supabase_anda
-SUPABASE_ANON_KEY=masukkan_anon_key_anda
+SUPABASE_URL=masukkan_url_supabase
+SUPABASE_ANON_KEY=masukkan_anon_key
 ```
 
 
